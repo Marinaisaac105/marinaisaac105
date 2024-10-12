@@ -18,7 +18,7 @@
 ---
 
 ### 👩‍🔬 About Me
-I am a **Bachelor of Science** graduate specializing in **Chemistry** from Suez Canal University with a GPA of 2.98. Over the years, I’ve honed my skills in both **pharmaceutical** and **management roles**, having worked as a **Medical Representative** and **co-Manager** in various pharmaceutical companies.
+I am a **Bachelor of Science** graduate specializing in **Chemistry** from Suez Canal University with a GPA of 2.98. Over the years, I’ve honed my skills in both **pharmaceutical** and **management roles**, having worked as a **Medical Representative** and **Co-Manager** in various pharmaceutical companies.
 I am currently gaining hands-on experience with tools like Excel, SQL, Power BI...
 
 ---
