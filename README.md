@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Chemist-6C63FF?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Medical_Representative-FF6B6B?style=flat&logo=medrxiv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Assistant_Manager-4CAF50?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/-co_Manager-4CAF50?style=flat&logo=notion&logoColor=white" />
 </p>
 
 <p align="center">
@@ -25,9 +25,7 @@ I am currently gaining hands-on experience with tools like Excel, SQL, Power BI.
 
 ### 💼 Work Experience
 - **Co-Manager** at Dr. Mina Isaac Pharmacy (2020 - Present)
-- **Medical Representative** at Borg for Pharmaceutical Industries (2018)
-- **Medical Representative** at Medizen for Pharmaceutical Industries (2018 - 2019)
-- **Medical Representative** at Habib Scientific Office (2019-2020)
+- **Medical Representative** at Habib Scientific Office (2018-2020)
 
 ---
 
