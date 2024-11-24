@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Chemist-6C63FF?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Medical_Representative-FF6B6B?style=flat&logo=medrxiv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-co_Manager-4CAF50?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Co_Manager-4CAF50?style=flat&logo=notion&logoColor=white" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ I am currently gaining hands-on experience with tools like Excel, SQL, Power BI.
 ---
 
 ### 🌟 Fun Facts
-- I’m passionate about the **pharmaceutical industry** and enjoy working in a fast-paced environment where I can help people through science!
+- I am currently gaining hands-on experience with tools like Excel, SQL, Power BI...
 
 
 ---
