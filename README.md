@@ -22,7 +22,9 @@
 ---
 
 ### 🎓 Education
-- **Diploma in Physiology & Biochemistry**  
+- **Diploma in Physiology & Biochemistry**    
+  Suez Canal University, Graduated Feb 2022
+ 
 - **Bachelor of Science in Chemistry**  
   Suez Canal University, Graduated May 2017
 
